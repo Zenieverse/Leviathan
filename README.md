@@ -8,3 +8,4 @@ The LEVIATHAN Command Center is designed for users who require maximal execution
 
 The app simulates the multi-phased lifecycle of a shielded transaction, providing real-time visual feedback, detailed metrics, and a forensic audit trail for every execution attempt.
 
+ReadMe: https://gemini.google.com/share/c321a1f59a3b
